@@ -39,14 +39,12 @@ Dinamicamente tipada: O tipo de uma variável é determinado em tempo de execuç
 ### 1. Variáveis e Constantes
 
 #### Variáveis (`let`)
-No JavaScript, as variáveis são usadas para armazenar valores. Para isso, utilize `let`.
+No JavaScript, as variáveis são usadas para armazenar valores. Para isso, utilize `let`. Introduzido no ES6, `let` tem escopo de bloco, o que significa que a variável só existe dentro de um bloco específico (como um `if`, `for`, etc.).
 
-- `let`: Introduzido no ES6, `let` tem escopo de bloco, o que significa que a variável só existe dentro de um bloco específico (como um `if`, `for`, etc.).
-
-  ```javascript
-  let cidade = "Belo Horizonte";
-  let ano = 2024;
-  ```
+```javascript
+let cidade = "Belo Horizonte";
+let ano = 2024;
+```
 
 #### Constantes (`const`)
 Constantes são declaradas com a palavra-chave `const` e, uma vez atribuídos, seus valores não podem ser modificados. Elas também possuem escopo de bloco.

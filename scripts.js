@@ -1,5 +1,3 @@
-// Demonstração da aula
-
 function botao1() {
     alert('Eu te disse para não clicar aqui!');
 }

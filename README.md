@@ -1,4 +1,4 @@
-# [PCD1][Aula 07] Introdução ao JavaScript
+# [PCD1][Aula 08] Introdução ao JavaScript
 
 JavaScript é uma linguagem de programação de alto nível, interpretada e amplamente utilizada para o desenvolvimento web. Originalmente criada para adicionar interatividade a páginas da web, JavaScript permite que desenvolvedores criem sites dinâmicos e interativos.
 
